@@ -61,6 +61,14 @@ My focus is turning messy operations into usable systems: AI agents, automation 
 
 ---
 
+## Activity Signal
+
+<div align="center">
+  <img src="./assets/activity-card.svg" width="100%" alt="Activity Signal" />
+</div>
+
+---
+
 ## Stack & Tools
 
 <div align="center">
