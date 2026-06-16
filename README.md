@@ -10,7 +10,17 @@
   <a href="https://www.instagram.com/champisikora"><img src="./assets/btn-instagram.svg" height="52" alt="Instagram" /></a>
 </div>
 
----
+<br />
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=D8B765&center=true&vCenter=true&width=900&lines=AI+Systems+Builder;Automation+Architect;Building+CRM+logic+and+AI+agents;Construyendo+sistemas%2C+no+solo+contenido)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="divider" />
+</div>
 
 ## About
 
@@ -20,23 +30,37 @@ My focus is turning messy operations into usable systems: AI agents, automation 
 
 > **Construyendo sistemas, no solo contenido.**
 
----
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="divider" />
+</div>
 
-## Core Direction
+## Focus
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%"><b>AI Agents</b><br/>workflows and assistants for real business execution</td>
-<td align="center" width="33%"><b>Business Systems</b><br/>CRM logic, operator dashboards and internal tooling</td>
-<td align="center" width="33%"><b>Second Brain</b><br/>Obsidian-based memory systems for humans and agents</td>
+<td align="center" width="33%"><b>AI Agents</b><br/>assistants, skills and workflows for real business execution</td>
+<td align="center" width="33%"><b>Business Systems</b><br/>CRM logic, operator dashboards and automation layers</td>
+<td align="center" width="33%"><b>Second Brain</b><br/>Obsidian-based memory systems for humans, projects and agents</td>
 </tr>
 </table>
 
 </div>
 
----
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="divider" />
+</div>
+
+## Working With
+
+<div align="center">
+  <img src="./assets/working-with.svg" width="100%" alt="Working With" />
+</div>
+
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="divider" />
+</div>
 
 ## Featured Public Builds
 
@@ -59,7 +83,9 @@ My focus is turning messy operations into usable systems: AI agents, automation 
 
 </div>
 
----
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="divider" />
+</div>
 
 ## Activity Signal
 
@@ -67,7 +93,9 @@ My focus is turning messy operations into usable systems: AI agents, automation 
   <img src="./assets/activity-card.svg" width="100%" alt="Activity Signal" />
 </div>
 
----
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="divider" />
+</div>
 
 ## Stack & Tools
 
@@ -77,10 +105,41 @@ My focus is turning messy operations into usable systems: AI agents, automation 
 
 <br /><br />
 
-![OpenAI](https://img.shields.io/badge/OpenAI-070706?style=for-the-badge&logo=openai&logoColor=d8b765)
-![Claude](https://img.shields.io/badge/Claude-070706?style=for-the-badge&logo=anthropic&logoColor=d8b765)
-![n8n](https://img.shields.io/badge/n8n-070706?style=for-the-badge&logo=n8n&logoColor=d8b765)
-![Obsidian](https://img.shields.io/badge/Obsidian-070706?style=for-the-badge&logo=obsidian&logoColor=d8b765)
-![Remotion](https://img.shields.io/badge/Remotion-070706?style=for-the-badge&logo=react&logoColor=d8b765)
+<img src="https://img.shields.io/badge/OpenAI-070706?style=for-the-badge&logo=openai&logoColor=d8b765" />
+<img src="https://img.shields.io/badge/Claude_Code-070706?style=for-the-badge&logo=anthropic&logoColor=d8b765" />
+<img src="https://img.shields.io/badge/n8n-070706?style=for-the-badge&logo=n8n&logoColor=d8b765" />
+<img src="https://img.shields.io/badge/Obsidian-070706?style=for-the-badge&logo=obsidian&logoColor=d8b765" />
+<img src="https://img.shields.io/badge/Vercel-070706?style=for-the-badge&logo=vercel&logoColor=d8b765" />
+
+</div>
+
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="divider" />
+</div>
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SikJa/Sikja/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SikJa/Sikja/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SikJa/Sikja/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="divider" />
+</div>
+
+<div align="center">
+
+<b>Agentic Era · Syka Lab · Building systems for creators, consultants and digital businesses</b>
+
+<br />
+<br />
+
+<sub>AI, agentes, negocios y futuro.</sub>
 
 </div>
