@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/final-banner.svg" width="100%" alt="IA, Agentes, Negocios y Futuro" />
+  <img src="./assets/1780339171199.jpg" width="100%" alt="IA, Agentes, Negocios y Futuro" />
 </div>
 
 <br />
