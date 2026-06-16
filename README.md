@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=D8B765&center=true&vCenter=true&width=900&lines=AI+Systems+Builder;Automation+Architect;Building+CRM+logic+and+AI+agents;Construyendo+sistemas%2C+no+solo+contenido)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=D8B765&center=true&vCenter=true&width=900&lines=AI+Systems+Builder;Automation+Architect;CRM+%2B+Agents+%2B+Second+Brain;Sistemas+de+IA+para+negocios+reales)](https://git.io/typing-svg)
 
 </div>
 
