@@ -5,11 +5,9 @@
 <br />
 
 <div align="center">
-
-[![YouTube](https://img.shields.io/badge/YOUTUBE-WATCH%20THE%20BUILDS-070706?style=for-the-badge&labelColor=070706&color=d8b765&logo=youtube&logoColor=f6df9a)](https://yt.openinapp.co/ovf6p)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-JUAN%20PABLO%20SIKORA-070706?style=for-the-badge&labelColor=070706&color=d8b765&logo=linkedin&logoColor=f6df9a)](https://www.linkedin.com/in/juan-pablo-sikora-8827b4154)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-@CHAMPISIKORA-070706?style=for-the-badge&labelColor=070706&color=d8b765&logo=instagram&logoColor=f6df9a)](https://www.instagram.com/champisikora)
-
+  <a href="https://yt.openinapp.co/ovf6p"><img src="./assets/btn-youtube.svg" height="52" alt="YouTube" /></a>
+  <a href="https://www.linkedin.com/in/juan-pablo-sikora-8827b4154"><img src="./assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/champisikora"><img src="./assets/btn-instagram.svg" height="52" alt="Instagram" /></a>
 </div>
 
 ---
@@ -58,16 +56,6 @@ My focus is turning messy operations into usable systems: AI agents, automation 
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## Analytics
-
-<div align="center">
-
-<img width="100%" src="https://quickchart.io/chart?width=1200&height=420&backgroundColor=070706&c={type:'line',data:{labels:[1,2,3,4,5,6,7,8,9,10],datasets:[{label:'Respuestas',data:[2,1,7,5,2,18,8,12,25,14],borderColor:'%23d8b765',backgroundColor:'rgba(216,183,101,.25)',fill:true,tension:.45},{label:'Enviados',data:[2,1,4,3,1,8,5,9,20,9],borderColor:'%238f8a7e',fill:false,tension:.45}]},options:{plugins:{legend:{labels:{color:'%23f6f0df'}}},scales:{x:{ticks:{color:'%239b927d'}},y:{ticks:{color:'%239b927d'}}}}}" alt="CRM style analytics chart" />
 
 </div>
 
