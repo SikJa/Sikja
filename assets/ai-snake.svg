@@ -1,0 +1,20 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="220" rx="28" fill="#050506"/>
+  <rect x="1" y="1" width="1198" height="218" rx="27" stroke="#C9A24A" stroke-opacity="0.35"/>
+  <g opacity="0.22">
+    <path d="M0 40H1200M0 80H1200M0 120H1200M0 160H1200M0 200H1200" stroke="#F2EFE7" stroke-opacity="0.18"/>
+    <path d="M60 0V220M120 0V220M180 0V220M240 0V220M300 0V220M360 0V220M420 0V220M480 0V220M540 0V220M600 0V220M660 0V220M720 0V220M780 0V220M840 0V220M900 0V220M960 0V220M1020 0V220M1080 0V220M1140 0V220" stroke="#F2EFE7" stroke-opacity="0.14"/>
+  </g>
+  <g opacity="0.95">
+    <path d="M132 124C197 47 279 47 344 124C409 201 491 201 556 124C621 47 703 47 768 124C833 201 915 201 980 124C1017 80 1061 59 1110 65" stroke="#C9A24A" stroke-width="18" stroke-linecap="round"/>
+    <path d="M132 124C197 47 279 47 344 124C409 201 491 201 556 124C621 47 703 47 768 124C833 201 915 201 980 124C1017 80 1061 59 1110 65" stroke="#F2EFE7" stroke-opacity="0.18" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="1110" cy="65" r="24" fill="#00563F" stroke="#C9A24A" stroke-width="7"/>
+    <circle cx="1119" cy="58" r="4" fill="#F2EFE7"/>
+    <circle cx="1122" cy="76" r="4" fill="#F2EFE7"/>
+    <path d="M1136 66L1161 52M1136 66L1161 81" stroke="#C9A24A" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g opacity="0.8">
+    <text x="60" y="58" fill="#C9A24A" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">CONTRIBUTION SNAKE</text>
+    <text x="60" y="186" fill="#F2EFE7" fill-opacity="0.72" font-family="Inter, Arial, sans-serif" font-size="16">AI systems · automation · agents · second brain infrastructure</text>
+  </g>
+</svg>
