@@ -22,8 +22,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%230c0c0c&color_dots=%23ececec,%23c8c8c8,%23919191,%23545454,%23161616
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23f4f4f4&color_dots=%23161616,%233a3a3a,%236b6b6b,%23a1a1a1,%23ededed
 
       - name: Publish snake SVG
         uses: peaceiris/actions-gh-pages@v4
